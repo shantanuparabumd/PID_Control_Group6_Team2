@@ -2,9 +2,9 @@
 
 ## Overview
 
-|Group Members
+|Group Members |
 |--
-|Team 2 | Team 1
+|Team 2 | Team 1 |
 |-
 |Bharadwaj Chukkala
 |Shantanu Suhas Parab
