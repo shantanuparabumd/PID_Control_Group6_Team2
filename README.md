@@ -5,7 +5,6 @@
 | Group | |
 |---| --- |
 | Team 2 | Team 1 |
-| --- | --- |
 | `Bharadwaj Chukkala` | `Anukriti Singh` |
 | `Shantanu Suhas Parab` | `Sanchit Tanwar` |
 
