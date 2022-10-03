@@ -40,7 +40,7 @@ PID::PID(double Kp_, double Ki_, double Kd_) {
  * @param set_point target value that we desire
  * @param process_variable the present value of flow
  * @param dt time step using which we iterate
- * @return double 
+ * @return double
  */
 double PID::compute(double set_point, double process_variable, double dt) {
   // proportional gain
