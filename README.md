@@ -32,5 +32,9 @@
     └── <font color="#3465A4"><b>googletest</b></font>
 </pre>
 
-
+## Instructions to run the code
+    - Clone the Repository
+    -
+    -
+    
 
