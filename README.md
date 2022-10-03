@@ -2,13 +2,13 @@
 
 ## Overview
 
-|Group Members |
-|--
-|Team 2 | Team 1 |
-|-
-|Bharadwaj Chukkala
-|Shantanu Suhas Parab
-|-
+|Group Members        |
+|---------------------|
+|Team 2    |  Team 1  |
+|---------------------|
+|Bharadwaj Chukkala   |
+|Shantanu Suhas Parab |
+|--------------
 |Anukriti Singh
 
 
