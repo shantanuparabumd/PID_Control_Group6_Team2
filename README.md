@@ -55,4 +55,13 @@ sudo apt-get install lcov [install lcov]
 cd build
 firefox coverage/index.html` [install firefox]
 ```  
+The UML class diagram is as follows :
+<img alt="UML" src="assets/uml.png" width="200" />
+*Fig 1 :  UML class diagram*
+
+The activity diagram is as follows : 
+
+
+<img alt="Activity" src="assets/Activity.png" width="500" />
+*Fig 2 :  Activity diagram*
 
