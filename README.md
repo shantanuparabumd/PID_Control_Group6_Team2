@@ -33,8 +33,8 @@
 </pre>
 
 ## Instructions to run the code
-    - Clone the Repository
-    -
-    -
+- Clone the Repository
+- 
+-
     
 
