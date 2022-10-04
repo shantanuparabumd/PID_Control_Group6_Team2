@@ -2,11 +2,11 @@
 
 ## Overview
 
-| Group | |
+| Group 6| |
 |---| --- |
 | Team 2 | Team 1 |
-| `Bharadwaj Chukkala` | `Anukriti Singh` |
-| `Shantanu Suhas Parab` | `Sanchit Tanwar` |
+| `Bharadwaj Chukkala` (Navigator)| `Anukriti Singh` (Navigator)|
+| `Shantanu Suhas Parab` (Driver)| `Sanchit Tanwar` (Driver)|
 
 
 ## Contents
