@@ -34,7 +34,25 @@
 
 ## Instructions to run the code
 - Clone the Repository
-- 
--
-    
+### Building the package
+```
+mkdir build
+cd build
+cmake ..
+make
+```
+### Running the package
+```
+./app/shell-app
+```
+### Testing the package
+```
+./test/cpp-test
+```
+### View code coverage
+```
+sudo apt-get install lcov [install lcov]
+cd build
+firefox coverage/index.html` [install firefox]
+```  
 
