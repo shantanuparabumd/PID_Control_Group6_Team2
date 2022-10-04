@@ -24,7 +24,7 @@ using std::min;
  */
 PID::PID(double Kp_, double Ki_, double Kd_) {
     integral = 0;  // integral used to calculate the integral gain of PID
-    prev_error = 0;  // initializing previous error to loop it through and through
+    prev_error = 0;  // initializing previous error to loop it through
     dt = 0.01;  // time step used to calculate the derivative gain of PID
     max_flow = 100;  // lower bound for the overall flow
     min_flow = 0;  // upper bound for the overall flow

@@ -30,7 +30,8 @@ int main() {
   double output = 0;
   for (size_t i = 0; i < 100; i++) {
     set_point = pid.compute(process_variable, set_point, dt);
-    std::cout << "Updated Flow after " << i * dt << " Seconds is :" << set_point << std::endl;
+    std::cout << "Updated Flow after " << i * dt <<
+     " Seconds is :" << set_point << std::endl;
 }
   return 0;
 }
