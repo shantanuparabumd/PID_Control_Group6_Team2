@@ -8,6 +8,20 @@
 | `Bharadwaj Chukkala` (Navigator)| `Anukriti Singh` (Navigator)|
 | `Shantanu Suhas Parab` (Driver)| `Sanchit Tanwar` (Driver)|
 
+### Part 1 
+- The Teams created their tentative UML Class Diagram for implementing the code.
+- In the next step both teams created a class and defined a compute function for PID.
+- Both Teams created the test cases for essentially how the PID is supposed to work.
+- CMakeLists were created appropriately as seen in the content tree below.
+- All this was done using git version control and detailed commits were written for each P-request
+
+### Part 2
+- The Teams switched the roles of driver and navigator and then forked the other team's repository.
+- Team 2 implemented the PID compute function for Team 1 and vice versa,
+- Both the teams programmed the code such that multiple test cases pass without fail and merged their changes to main branch.
+- cpplinting and checking was done for both the packages
+- The code has been standardly documented using Doxygen
+
 
 ## Contents
 
