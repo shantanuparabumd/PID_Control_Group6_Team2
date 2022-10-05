@@ -61,7 +61,6 @@ firefox coverage/index.html` [install firefox]
 
 *Fig 1 :  UML class diagram*
 
-The activity diagram is as follows : 
 
 
 <img alt="Activity" src="./TDD activity diagram(1)_pair2.png" width="500" />
