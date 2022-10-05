@@ -70,7 +70,7 @@ cd build
 firefox coverage/index.html` [install firefox]
 ```  
 ### Run cppcheck and cpplint
-Run cppcheck: Results are stored in `./results/cpp_check.pdf
+Run cppcheck: Results are stored in `./results/cpp_check.pdf`
 ```
 sh run_cppcheck.sh
 ```
