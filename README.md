@@ -24,7 +24,9 @@
 
 ### Extra Credit
 - Continuous Integration and Testing were performed using one free trail of Travis CI 
+
 - Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis CI Build
+
 
 ## Contents
 
@@ -72,6 +74,16 @@ sudo apt-get install lcov [install lcov]
 cd build
 firefox coverage/index.html` [install firefox]
 ```  
+### Run cppcheck and cpplint
+Run cppcheck: Results are stored in `./results/cpp_check.pdf`
+```
+sh run_cppcheck.sh
+```
+
+Run cpplint: Results are stored in `./results/cpplint.pdf`
+```
+sh run_cpplint.sh
+```
 ### The UML class diagrams
 
 <img alt="UML" src="./PID Class_pair2.png" width="400" />
