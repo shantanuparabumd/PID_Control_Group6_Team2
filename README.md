@@ -56,7 +56,7 @@ cd build
 firefox coverage/index.html` [install firefox]
 ```  
 The UML class diagram is as follows :
-<img alt="UML" src="./PID Class_pair2.png" width="200" />
+<img alt="UML" src="./PID Class_pair2.png" width="400" />
 *Fig 1 :  UML class diagram*
 
 The activity diagram is as follows : 
