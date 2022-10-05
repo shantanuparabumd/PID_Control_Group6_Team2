@@ -26,8 +26,8 @@ PID::PID(double Kp_, double Ki_, double Kd_) {
     integral = 0;  // integral used to calculate the integral gain of PID
     prev_error = 0;  // initializing previous error to loop it through
     dt = 0.01;  // time step used to calculate the derivative gain of PID
-    max_flow = 100;  // lower bound for the overall flow
-    min_flow = 0;  // upper bound for the overall flow
+    max_vel = 100;  // lower bound for the overall flow
+    min_vel = 0;  // upper bound for the overall flow
 
     // Initializing variables
     Kp = Kp_;
@@ -60,7 +60,7 @@ double PID::compute(double set_point, double process_variable, double dt) {
   // A logic to minimize error iteratively
   prev_error = error;
 
-  pid_output = max(min_flow, min(max_flow, pid_output));
+  pid_output = max(min_vel, min(max_vel, pid_output));
   return pid_output;
 }
 
