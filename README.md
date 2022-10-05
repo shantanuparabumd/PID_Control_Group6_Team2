@@ -64,5 +64,6 @@ firefox coverage/index.html` [install firefox]
 
 
 <img alt="Activity" src="./TDD activity diagram(1)_pair2.png" width="500" />
+
 *Fig 2 :  Activity diagram*
 
