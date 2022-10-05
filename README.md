@@ -1,4 +1,4 @@
-# PID_Control - Team 2
+# PID_Control_Group6_Team2
 
 ## Overview
 
