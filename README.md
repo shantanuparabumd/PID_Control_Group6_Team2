@@ -22,6 +22,9 @@
 - cpplinting and checking was done for both the packages
 - The code has been standardly documented using Doxygen
 
+### Extra Credit
+- Continuous Inntegrationa and Testing were performed using one free trail of Travis CI 
+- Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis build
 
 ## Contents
 
