@@ -24,7 +24,7 @@
 
 ### Extra Credit
 - Continuous Inntegrationa and Testing were performed using one free trail of Travis CI 
-- Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis build
+- Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis CI Build
 
 ## Contents
 
