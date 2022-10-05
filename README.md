@@ -2,9 +2,9 @@
 
 ## Overview
 
-| Group 6| |
-|---| --- |
+### Group 6 
 | Team 2 | Team 1 |
+|---| --- |
 | `Bharadwaj Chukkala` (Navigator)| `Anukriti Singh` (Navigator)|
 | `Shantanu Suhas Parab` (Driver)| `Sanchit Tanwar` (Driver)|
 
@@ -24,7 +24,8 @@
 
 ### Extra Credit
 - Continuous Integration and Testing were performed using one free trail of Travis CI 
-- Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis build
+
+- Press this [LINK](https://app.travis-ci.com/github/sanchit2843/PID_Control) to see the Travis CI Build
 
 
 ## Contents
