@@ -2,7 +2,7 @@
 
 ## Overview
 ### Task
-- For Acme Robotics and we need to create a PID controller implementation for a new mobile robot product development!
+- For Acme Robotics, we need to create a PID controller implementation for a new mobile robot product development!
 - Simulate Pair Programming and Test Driven Development
 - Use Git Version control to coordinate 
 ### Group 6 
